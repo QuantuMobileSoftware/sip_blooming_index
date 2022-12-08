@@ -2,11 +2,11 @@
 
 ### Build image
 
-`docker build -t registry.quantumobile.co/sip_tci_ebi:0.0.1-dev .`
+`docker build -t quantumobile/sip_tci_ebi:0.0.1-dev .`
 
 ### Push to registry
 
-`docker push registry.quantumobile.co/sip_tci_ebi:0.0.1-dev`
+`docker push quantumobile/sip_tci_ebi:0.0.1-dev`
 
 ### Docker run command
 
