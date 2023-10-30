@@ -1,4 +1,6 @@
 # SIP BLOOMING INDEX
+### Model description
+Calculates the intensity of white blooms, such as trees with white flowers, white flowers, etc. The model is useful for pollination tasks and can help track the annual flowering cycle.
 
 ### Build image
 
